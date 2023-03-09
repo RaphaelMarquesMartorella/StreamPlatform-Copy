@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "NetflixClone",
+			"path": "../../../Projetos/NetflixClone"
+		},
+		{
+			"name": "src",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
